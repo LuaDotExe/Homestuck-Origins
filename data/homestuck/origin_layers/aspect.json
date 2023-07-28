@@ -1,0 +1,20 @@
+{
+	"replace": false,
+	"order": 4,
+	"enabled": true,
+	"origins": [
+		"homestuck:blood",
+		"homestuck:breath",
+		"homestuck:doom",
+		"homestuck:heart",
+		"homestuck:hope",
+		"homestuck:life",
+		"homestuck:light",
+		"homestuck:mind",
+		"homestuck:rage",
+		"homestuck:space",
+		"homestuck:time",
+		"homestuck:void"
+    ],
+	"name": "Aspect"
+}
