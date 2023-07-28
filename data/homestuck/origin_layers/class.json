@@ -3,7 +3,18 @@
 	"order": 3,
 	"enabled": true,
 	"origins": [
-		
+		"homestuck:bard",
+		"homestuck:heir",
+		"homestuck:knight",
+		"homestuck:mage",
+		"homestuck:maid",
+		"homestuck:page",
+		"homestuck:prince",
+		"homestuck:rogue",
+		"homestuck:seer",
+		"homestuck:sylph",
+		"homestuck:thief",
+		"homestuck:witch"
     ],
 	"name": "Class"
 }
