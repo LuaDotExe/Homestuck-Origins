@@ -13,13 +13,13 @@
             "conditions": [
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 10,
                     "comparison": ">="
                 },
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 15,
                     "comparison": "<"
                 }
@@ -39,13 +39,13 @@
             "conditions": [
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 15,
                     "comparison": ">="
                 },
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 20,
                     "comparison": "<"
                 }
@@ -65,13 +65,13 @@
             "conditions": [
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 20,
                     "comparison": ">="
                 },
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 30,
                     "comparison": "<"
                 }
@@ -91,13 +91,13 @@
             "conditions": [
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 30,
                     "comparison": ">="
                 },
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 40,
                     "comparison": "<"
                 }
@@ -117,13 +117,13 @@
             "conditions": [
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 40,
                     "comparison": ">="
                 },
                 {
                     "type": "origins:command",
-                    "command": "rung query",
+                    "command": "getrung @s",
                     "compare_to": 50,
                     "comparison": "<"
                 }
@@ -140,7 +140,7 @@
         },
         "condition": {
             "type": "origins:command",
-            "command": "rung query",
+            "command": "getrung @s",
             "compare_to": 50,
             "comparison": ">="
         }
