@@ -5,6 +5,6 @@
 	"origins": [
 		
 	],
-	"name": "Global",
+	"auto_choose": true,
     "hidden": true
 }

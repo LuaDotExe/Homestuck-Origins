@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:music_disc_relic",
 	"order": 0,
 	"impact": 0,
 	"name": "Mage",
-	"description": "One who guides with their Aspect."
+	"description": "One who gains knowledge of their Aspect."
 }

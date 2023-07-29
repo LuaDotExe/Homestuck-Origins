@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:bedrock",
 	"order": 0,
 	"impact": 0,
 	"name": "Space",
-	"description": ""
+	"description": "The essence of matter itself."
 }

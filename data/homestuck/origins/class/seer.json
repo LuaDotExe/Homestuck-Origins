@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:music_disc_5",
 	"order": 0,
 	"impact": 0,
 	"name": "Seer",
-	"description": "One who sees their Aspect."
+	"description": "One who divines information from their Aspect."
 }

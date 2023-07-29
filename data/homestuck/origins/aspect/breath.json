@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:feather",
 	"order": 0,
 	"impact": 0,
 	"name": "Breath",
-	"description": ""
+	"description": "Freedom and the wind."
 }

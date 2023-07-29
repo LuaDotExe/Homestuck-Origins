@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:barrier",
 	"order": 0,
 	"impact": 0,
 	"name": "Void",
-	"description": ""
+	"description": "Secrecy and the very absence of existence."
 }

@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:pink_dye",
 	"order": 0,
 	"impact": 0,
 	"name": "Heart",
-	"description": ""
+	"description": "The self; the soul; the heart."
 }

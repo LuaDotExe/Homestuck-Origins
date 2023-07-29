@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:ender_eye",
 	"order": 0,
 	"impact": 0,
 	"name": "Mind",
-	"description": ""
+	"description": "Careful thought paves the way."
 }

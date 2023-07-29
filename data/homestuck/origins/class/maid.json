@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:music_disc_chirp",
 	"order": 0,
 	"impact": 0,
 	"name": "Maid",
-	"description": "One who is made of their Aspect."
+	"description": "One who gives their Aspect."
 }

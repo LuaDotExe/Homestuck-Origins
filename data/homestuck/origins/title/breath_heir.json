@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "homestuck:breath/heir/like_wind"
+    ],
+    "impact": 0,
+    "icon": {
+        "item": "minecraft:feather",
+        "amount": 1
+    },
+    "name": "Heir of Breath",
+    "description": "Play the wind."
+}

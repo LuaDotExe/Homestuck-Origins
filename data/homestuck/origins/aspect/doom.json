@@ -2,9 +2,9 @@
 	"powers": [
 		
 	],
-	"icon": "minecraft:gray_dye",
+	"icon": "minecraft:wither_skeleton_skull",
 	"order": 0,
 	"impact": 0,
 	"name": "Doom",
-	"description": ""
+	"description": "Rules, fate, and the end of cycles."
 }
