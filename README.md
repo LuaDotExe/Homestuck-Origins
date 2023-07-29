@@ -1,5 +1,5 @@
 # Homestuck Origins
-Homestuck Origins is a new community project in which we utilize Origins (Forge) and Apugli to recreate the mechanisms of Homestuck's Title system (commonly referred to as a "Classpect"). This data pack relies on the Minestuck mod for levelling up and progressing, and is designed to be used alongside it.
+Homestuck Origins is a new community project in which we utilize Origins (Forge), Apugli, and Origins Extra Keybinds to recreate the mechanisms of Homestuck's Title system (commonly referred to as a "Classpect"). This data pack also relies on the Minestuck mod for progression, and is designed to be used alongside it.
 
 In Homestuck, characters are given a mythological role that is referred to as their "Title". A Title is made up of a Class and an Aspect, of which there are both 12. An "Aspect" is essentially an element of reality, and your "Class" dictates how you interface with it. A few of the well-known Titles in Homestuck include Heir of Breath (one who inherits freedom/the wind), Knight of Time (one who weaponizes time itself), and Prince of Hope (one who destroys your last hope).
 ## CLASSES EXPLAINED
