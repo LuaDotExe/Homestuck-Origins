@@ -1,0 +1,61 @@
+{
+    "type": "origins:multiple",
+    "duration": {
+        "type": "origins:cooldown",
+        "cooldown": 60,
+        "hud_render": {
+            "should_render": true,
+            "inverted": true,
+            "condition": {
+                "type": "origins:resource",
+                "resource": "*:*_cooldown",
+                "compare_to": 0,
+                "comparison": "=="
+            }
+        }
+    },
+    "cooldown": {
+        "type": "origins:cooldown",
+        "cooldown": 1200,
+        "hud_render": {
+            "should_render": true,
+            "condition": {
+                "type": "origins:resource",
+                "resource": "*:*_duration",
+                "compare_to": 0,
+                "comparison": "=="
+            }
+        }
+    },
+    "active": {
+        "type": "apoli:active_self",
+        "cooldown": 61,
+        "hud_render": {
+            "should_render": false
+        },
+        "entity_action": {
+            "type": "origins:trigger_cooldown",
+            "power": "*:*_duration"
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "*:*_cooldown",
+            "compare_to": 0,
+            "comparison": "=="
+        }
+    },
+    "name": "One With the Breeze",
+    "description": "You can temporarily transform into the wind.",
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "sprite": "origins:textures/gui/badge/active.png",
+            "text": ["Active ability, use with [", {"keybind": "key.origins.tertiary_active"}, "]. 20 second cooldown."]
+        },
+        {
+            "type": "origins:tooltip",
+            "sprite": "origins:textures/gui/badge/star.png",
+            "text": "Unlocks at rung 15."
+        }
+    ]
+}

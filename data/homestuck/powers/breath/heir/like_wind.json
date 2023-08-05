@@ -149,7 +149,12 @@
         "type": "origins:attribute_modify_transfer",
         "class": "modify_air_speed",
         "attribute": "minecraft:generic.movement_speed",
-        "multiplier": 1
+        "multiplier": 1,
+        "condition": {
+            "type": "origins:power",
+            "power": "origins:like_air",
+            "inverted": true
+        }
     },
     "name": "Like Wind",
     "description": "You gain additional movement speed, and move just as quickly in the air.",
